@@ -197,25 +197,3 @@ php artisan serve --host 0.0.0.0 --port $PORT
 ```
 
 ---
-
-# **13. Vídeo do Projeto**
-
-O vídeo contem:
-
-* Introdução
-* Objetivo do sistema
-* Tecnologias
-* Explicação do código
-* Demonstração do site
-* Testes
-* Conclusão
-
----
-
-# **14. Links Importantes**
-
-* **Repositório do código:** *(inserir depois)*
-* **Solução funcionando (Render):** *(inserir)*
-* **Vídeo narrado:** *(inserir)*
-
----
