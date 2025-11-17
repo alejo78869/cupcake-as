@@ -1,0 +1,9 @@
+{
+    "name": "cupcake/as",
+    "description": "Projeto Cupcake AS - Laravel Simplificado",
+    "type": "project",
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^9.0"
+    }
+}
