@@ -195,9 +195,9 @@ composer install && php artisan migrate --force --seed
 ```
 php artisan serve --host 0.0.0.0 --port $PORT
 ```
-Link do Repositório no GitHub
+# **Link da Solução em Funcionamento**
 
-Código-fonte completo e documentação do projeto:
+O projeto está publicado e acessível publicamente através do Render:
 
-https://github.com/alejo78869/cupcake-as
+ https://cupcake-as2.onrender.com
 ---
